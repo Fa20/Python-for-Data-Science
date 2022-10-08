@@ -1,0 +1,8 @@
+# Beginner level Quiz
+
+In Python there are many different data types that all represent a different group of characters. While ----- represent text,  ---- represent 
+floating point numbers,  ----- represent either true or false and so on. Data types can be converted into another using the command " ------- (number, text etc.)".
+There are fourteen types of data types in Python, the most important ones being int, float, bool, list and  blank . In order to be able to see the type of a variable etc. 
+one must use the command  ----- ()".
+
+bools , dict , Strings. type , floats , data type
